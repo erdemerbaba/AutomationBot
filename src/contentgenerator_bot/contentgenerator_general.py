@@ -1,0 +1,1 @@
+print("This Content Generator script is an early extension of the project. Main purpose of this script is to generate the content by using just apis and save to data folder.")

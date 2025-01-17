@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "video_auto_poster"
+version = "1.0.0"
+description = "A Python project to generate and upload videos to X, Instagram and YouTube"
+authors = ["Erdem Erbaba <erdemerbaba@gmail.com>"]
+dependencies = [
+    "opencv-python",
+    "pytube",
+    "instagrapi",
+    "google-api-python-client",
+    "requests"
+]

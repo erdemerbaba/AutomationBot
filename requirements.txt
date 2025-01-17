@@ -1,0 +1,5 @@
+opencv-python
+pytube
+instagrapi
+google-api-python-client
+requests

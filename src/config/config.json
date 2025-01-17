@@ -1,0 +1,32 @@
+{
+  "contentgenerator_api": {
+    "TOPIC_INFO": "https://newsapi.org/v2/top-headlines?",
+    "TOPIC_SECRET": "value",
+    "DIALOG_INFO": "will come soon",
+    "DIALOG_SECRET": "will come soon",
+    "AUDIO_INFO": "will come soon",
+    "AUDIO_SECRET": "will come soon",
+    "VIDEO_INFO": "will come soon",
+    "VIDEO_SECRET": "will come soon",
+    "AVATAR_INFO": "will come soon",
+    "AVATAR_SECRET": "will come soon"
+  },
+  "instagram_api": {
+    "INFO": "https://developers.facebook.com/products/instagram/apis/",
+    "USERNAME_INFO": "value",
+    "PASSWORD_INFO": "value"
+  },
+  "youtube_api": {
+    "INFO": "https://developers.google.com/youtube/v3",
+    "TOKEN_FILE": "config/token.pkl",
+    "CLIENT_SECRETS_FILE":"config/credentials.json"
+  },
+  "x_api": {
+    "INFO": "https://docs.x.com/x-api/introduction",
+    "API_KEY": "value",
+    "API_SECRET_KEY": "value",
+    "ACCESS_TOKEN": "value",
+    "ACCESS_TOKEN_SECRET": "value",
+    "BEARER_TOKEN": "value"
+  }
+}
